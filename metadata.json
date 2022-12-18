@@ -1,9 +1,9 @@
 {
-  "name": "CT MINI GAME",
+  "name": "CT MINI GAME NEW",
   "symbol": "CTM",
   "description": "The World of Ereo, a place like no other. In this mini-game we invite you to explore the lands of our Primordial Titans, compete in challenges, and earn exclusive rewards. This is your chance to prepare for the battle of your life…",
-  "image": "https://raw.githubusercontent.com/wfp2002/minigame/main/0.png",
-  "animation_url": "https://raw.githubusercontent.com/wfp2002/minigame/main/0.png",
+  "image": "https://raw.githubusercontent.com/wfp2002/minigame/main/minigame.jpg",
+  "animation_url": "https://raw.githubusercontent.com/wfp2002/minigame/main/minigame.jpg",
   "external_url": "https://cryptotitans.com/game",
   "attributes": [
     {
